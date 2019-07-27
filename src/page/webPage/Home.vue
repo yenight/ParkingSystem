@@ -1,10 +1,16 @@
 <template>
-    <div>2</div>
+    <div>
+      web manage system
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'Home',
+  data: function () {
+    return {
+    }
+  }
 }
 </script>
 
